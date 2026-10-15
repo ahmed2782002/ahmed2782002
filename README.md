@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed2782002&label=PROFILE%20VIEWS&color=00ff41&labelColor=050a06&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00ff41?style=flat-square&labelColor=050a06" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
@@ -32,10 +31,7 @@ class AhmedEsam extends FlutterDeveloper {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Bloc-00ff41?style=flat-square&logo=flutter&logoColor=black"/> <img src="https://img.shields.io/badge/Cubit-00ff41?style=flat-square&logo=flutter&logoColor=black"/> <img src="https://img.shields.io/badge/Provider-00ff41?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/MVVM-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Dependency%20Injection-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Feature--based-00ff41?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/REST%20APIs-00ff41?style=flat-square&logo=postman&logoColor=black"/> <img src="https://img.shields.io/badge/Dio-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/GraphQL-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Hive-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-00ff41?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FCM-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Google%20Maps-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/PayMob-00ff41?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Git-00ff41?style=flat-square&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-00ff41?style=flat-square&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/Localization%20i18n-00ff41?style=flat-square"/> <img src="https://img.shields.io/badge/RTL/LTR-00ff41?style=flat-square"/>
+  <img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/tech.svg" width="100%" alt="Tech stack" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
