@@ -3,10 +3,6 @@
 <h3 align="center">Flutter Developer 📱 | BLoC/Cubit • Clean Architecture • REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Building+Flutter+apps+for+the+Gulf+%26+Egypt;Arabic-first+%7C+RTL%2FLTR+interfaces;Clean+Architecture+%2B+BLoC%2FCubit" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed2782002&color=2CA5E0&style=flat-square" />
 </p>
 
