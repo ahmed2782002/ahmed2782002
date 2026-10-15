@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahmed Esam</h1>
-
-<h3 align="center">Flutter Developer 📱 | BLoC/Cubit • Clean Architecture • REST APIs</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/header.svg" alt="Ahmed Esam - Flutter Developer" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed2782002&color=2CA5E0&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed2782002&color=00ff41&style=flat-square" />
 </p>
 
 ---
