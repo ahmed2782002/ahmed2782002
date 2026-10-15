@@ -8,17 +8,30 @@
 
 ## 👨‍💻 About Me
 
-```dart
-class AhmedEsam extends FlutterDeveloper {
-  final role      = 'Flutter Developer @ Nahr Development';
-  final markets   = ['Gulf', 'Egypt'];
-  final domains   = ['Booking', 'Delivery', 'Social', 'E-commerce', 'Healthcare', 'Automotive'];
-  final focus     = ['BLoC/Cubit', 'Clean Architecture', 'REST APIs'];
-  final ui        = 'Multilingual • RTL/LTR-aware • Arabic-first';
-  final education = 'BSc Information Technology (EELU) + Route IT Flutter Diploma';
-  final languages = ['Arabic (Native)', 'English (Professional)'];
-}
-```
+I'm a **Flutter Developer** at **Nahr Development**, building mobile apps for clients across the **Gulf and Egyptian markets**. I work with **BLoC/Cubit**, **Clean Architecture** and **REST APIs**, and I enjoy turning designs into smooth, responsive apps that feel right in both **Arabic (RTL)** and **English (LTR)**.
+
+<table>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>Flutter Developer @ Nahr Development (Remote)</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Domains</b></td>
+    <td>Booking · Delivery · Social · E-commerce · Healthcare · Automotive</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Focus</b></td>
+    <td>Multilingual, RTL/LTR-aware, Arabic-first interfaces</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>BSc Information Technology (EELU) · Flutter Diploma (Route IT)</td>
+  </tr>
+  <tr>
+    <td>🗣️ <b>Languages</b></td>
+    <td>Arabic (Native) · English (Professional)</td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
