@@ -3,38 +3,47 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed2782002&label=PROFILE%20VIEWS&color=00ff41&labelColor=050a06&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed2782002&label=PROFILE%20VIEWS&color=0175C2&style=flat-square" />
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
 
 ## 👨‍💻 About Me
 
 ```dart
 class AhmedEsam extends FlutterDeveloper {
-  final role     = 'Flutter Developer @ Nahr Development';
-  final markets  = ['Gulf', 'Egypt'];
-  final domains  = ['Booking', 'Delivery', 'Social', 'E-commerce', 'Healthcare', 'Automotive'];
-  final focus    = ['BLoC/Cubit', 'Clean Architecture', 'REST APIs'];
-  final ui       = 'Multilingual • RTL/LTR-aware • Arabic-first';
+  final role      = 'Flutter Developer @ Nahr Development';
+  final markets   = ['Gulf', 'Egypt'];
+  final domains   = ['Booking', 'Delivery', 'Social', 'E-commerce', 'Healthcare', 'Automotive'];
+  final focus     = ['BLoC/Cubit', 'Clean Architecture', 'REST APIs'];
+  final ui        = 'Multilingual • RTL/LTR-aware • Arabic-first';
   final education = 'BSc Information Technology (EELU) + Route IT Flutter Diploma';
   final languages = ['Arabic (Native)', 'English (Professional)'];
 }
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
-
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,cpp,git,github,androidstudio,vscode,postman,figma&perline=12" />
-</p>
+<table align="center">
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=flutter,dart" /></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=dart,java,python,cpp,html,css" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Services</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=firebase,graphql" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=git,github,androidstudio,vscode,postman,figma" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/tech.svg" width="100%" alt="Tech stack" />
+<img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-0175C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/MVVM-0175C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-0175C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetIt-0175C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Localization-0175C2?style=for-the-badge"/>
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
 
 ## 🚀 Featured Work
 
@@ -42,54 +51,54 @@ class AhmedEsam extends FlutterDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 🧺 Laundo
+#### 🧺 Laundo
 Laundry pickup &amp; delivery for customers: scheduled orders, wallet &amp; coupons, live tracking.
 
-<sub><code>Cubit • Dio • Google Maps • FCM</code></sub>
+<sub><code>Cubit · Dio · Google Maps · FCM</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚚 Laundo Delivery
+#### 🚚 Laundo Delivery
 Driver app: task management, live tracking, QR scanning and signature capture.
 
-<sub><code>Cubit • Google Maps • QR Scanner</code></sub>
+<sub><code>Cubit · Google Maps · QR Scanner</code></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Qarar
+#### 💬 Qarar
 Consultation booking: OTP auth, transactions, certificates and paginated bookings.
 
-<sub><code>Bloc • Dio • GetIt • Dartz</code></sub>
+<sub><code>Bloc · Dio · GetIt · Dartz</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Book Iraq
+#### 🏨 Book Iraq
 Travel &amp; property booking: hotels, taxi booking, favourites and reservations.
 
-<sub><code>Bloc • Firebase • FCM</code></sub>
+<sub><code>Bloc · Firebase · FCM</code></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛵 Fresh Driver
+#### 🛵 Fresh Driver
 Delivery driver app with real-time order tracking on Google Maps.
 
-<sub><code>Cubit • Dio • Firebase</code></sub>
+<sub><code>Cubit · Dio · Firebase</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📣 Quartz
+#### 📣 Quartz
 Social app: posts, comments, likes, polls, saved posts and profile editing.
 
-<sub><code>Cubit • Hive • Dio</code></sub>
+<sub><code>Cubit · Hive · Dio</code></sub>
 
 </td>
 </tr>
@@ -97,35 +106,25 @@ Social app: posts, comments, likes, polls, saved posts and profile editing.
 
 <p align="center"><sub>Most of my work lives in private company repositories, so only personal projects appear publicly.</sub></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmed2782002&show_icons=true&title_color=00ff41&text_color=9be9a8&icon_color=00ff41&bg_color=050a06&border_color=00ff41&hide_border=false&border_radius=10" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2782002&layout=compact&title_color=00ff41&text_color=9be9a8&icon_color=00ff41&bg_color=050a06&border_color=00ff41&hide_border=false&border_radius=10" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmed2782002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2782002&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed2782002&background=050a06&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=9be9a8&dates=9be9a8&border=00ff41&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=ahmed2782002&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/ahmed2782002/ahmed2782002/main/divider.svg" width="100%"/></p>
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-esam-042032347/">
-    <img src="https://img.shields.io/badge/LinkedIn-050a06?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
-  </a>
-  <a href="mailto:ahmedesam2772@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-050a06?style=for-the-badge&logo=gmail&logoColor=00ff41" />
-  </a>
-  <a href="https://github.com/ahmed2782002">
-    <img src="https://img.shields.io/badge/GitHub-050a06?style=for-the-badge&logo=github&logoColor=00ff41" />
-  </a>
+  <a href="https://www.linkedin.com/in/ahmed-esam-042032347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmedesam2772@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ahmed2782002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:050a06&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:54C5F8&height=110&section=footer" />
 </p>
